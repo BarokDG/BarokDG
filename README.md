@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=barokdg&show_icons=true&theme=rose_pine" />
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=barokdg&langs_count=15&theme=rose_pine)]()
