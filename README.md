@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=barokdg&show_icons=true&theme=rose_pine" />
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=barokdg&langs_count=15&theme=rose_pine)]()
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=barokdg&show_icons=true&count_private=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=barokdg&langs_count=15&theme=rose_pine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
